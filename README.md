@@ -1,2 +1,2 @@
-# flyme_device_oneplus2
-基于LineageOS官方 20180126 夜版适配
+# Flyme Patchrom for 一加2
+![Flyme 6 Logo](https://raw.githubusercontent.com/NESPTechnology/FlymeOS_devices_P8Lite/android-6.0/images/flyme.png)
